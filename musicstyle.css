@@ -1,0 +1,16 @@
+			table, th, td {
+  border: 5px solid #d4155e;
+  border-collapse: collapse;
+}
+th, td {
+  background-color: #fff2fe
+}
+.center {
+  display: block;
+  margin-left: auto;
+  margin-right: auto;
+}
+body{
+	background-color: #fff2fe;
+	font:times new roman;
+}
